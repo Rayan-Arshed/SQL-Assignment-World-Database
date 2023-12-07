@@ -1,4 +1,4 @@
-# SQL-Assignment-World-Database
+# SQL Assignment World Database
 
 ## Overview
 A project based in MySQL Workbench, where a database of countries and their details was loaded, and specific queries were answered relating to the dataset, testing my ability to query data. This assignment tested my knowledge of SQL queries, being comfortable working with MySQL Workbench, and understanding database relationships. Marked Grade: Distinction
