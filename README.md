@@ -28,3 +28,5 @@ The goals of this project were to understand relational database design, practic
 - PDF version of my report
 - SQL script file to create and initialize the database used
 - SQL script file which contains my queries and comments
+
+## Additional Screenshots
