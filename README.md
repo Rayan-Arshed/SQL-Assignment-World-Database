@@ -30,3 +30,9 @@ The goals of this project were to understand relational database design, practic
 - SQL script file which contains my queries and comments
 
 ## Additional Screenshots
+
+Using Between in my SQL functions
+![image](https://github.com/Rayan-Arshed/SQL-Assignment-World-Database/assets/95011650/90a132f2-bbb2-46c4-bd61-c70d2aed007a)
+
+SQL function that uses the existing fields to calculate a new column, Estimated Speaking Population
+![image](https://github.com/Rayan-Arshed/SQL-Assignment-World-Database/assets/95011650/90e505ea-0e1a-477f-8944-8388f7d474ad)
