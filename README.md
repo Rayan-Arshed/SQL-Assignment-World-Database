@@ -38,3 +38,7 @@ The goals of this project were to understand relational database design, practic
 ### SQL function that uses the existing fields to calculate a new column, Estimated Speaking Population
 
 ![image](https://github.com/Rayan-Arshed/SQL-Assignment-World-Database/assets/95011650/90e505ea-0e1a-477f-8944-8388f7d474ad)
+
+### Reverse Engineering a Entity Relationship Diagram
+
+![image](https://github.com/Rayan-Arshed/SQL-Assignment-World-Database/assets/95011650/978e98bd-b361-45b2-9e22-47ea40e8b740)
